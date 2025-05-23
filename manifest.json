@@ -1,14 +1,14 @@
 {
 	"author": "J.Fechner",
-	"name": "WebAPK",
-	"short_name": "Chrome WebAPK",
+	"name": "WebAPK–Test",
+	"short_name": "WebAPK–Short",
 	"description": "Simple template for a chrome WebAPK.",
 	"orientation": "portrait",
 	"start_url": "/WebAPK/",
 	"scope": "/WebAPK/",
 	"display": "standalone",
-	"background_color": "grey",
-	"theme_color": "black",
+	"background_color": "",
+	"theme_color": "",
 	"icons": [
 		{
 			"src": "/WebAPK/logo.png",
@@ -16,8 +16,8 @@
 			"type": "image/png"
 		}
 	],
-	"manifest_version": 2,
-	"version": "0.1",
+	"manifest_version": 3,
+	"version": "0.3",
 	"applications": {
 		"gecko": {
 			"id": "addon@example.com"
